@@ -12,5 +12,3 @@ function mapLetters(str){
 	return ans;
 }
 
-const str = propmt("Enter the string");
-alert(mapLetters(str));
